@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    border: 5px solid white;
+    width: 500px;
+    padding: 15px 20px;
+}
+.essay-card{
+    background-color: white;
+    width: 350px;
+    padding: 30px;
+    height: 230px;
+    border-radius: 8px;
+    position: relative;
+}
+.essay-heading{
+    background-color: deeppink;
+    width: fit-content;
+    padding: 15px;
+    border-radius: 5px;
+    position: absolute;
+    top: -15px;
+    left: 48px;
+}
+.essay-card p{
+    margin-top: 45px;
+}
