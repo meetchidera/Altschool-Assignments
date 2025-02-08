@@ -104,7 +104,7 @@ body {
          &.dropdown::before {
             content: "";
             display: inline-block;
-            background-image: url(/first-semester/homework/assets/caret-down-fill.svg);
+            background-image: url(/ALTSCHOOL/ASSIGNMENTS/ASSIGNMENT2/assets/why-you-started);
             background-repeat: no-repeat;
             width: 20px;
             height: 20px;
